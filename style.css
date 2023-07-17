@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #content-container {
+    margin-bottom: 20px;
+  }
+  
+  .content-item {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  #loading-section {
+    display: none;
+    padding: 10px;
+    text-align: center;
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
