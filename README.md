@@ -10,7 +10,7 @@ This project is an implementation of an infinite scroll feature using HTML, CSS,
 
 ## Demo
 
-You can see a live demo of the project [here](https://link.com).
+You can see a live demo of the project [here]([https://link.com](https://levannamicheishvili.github.io/InfiniteScroll/)).
 
 ## Usage
 
